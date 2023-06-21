@@ -1,0 +1,43 @@
+.bd
+{
+    background-color:grey;
+}
+.hd1
+{
+ background-color: red;
+ border: 1px solid black;
+}
+.img1
+{
+ width: 100px;
+ height: 100px;
+ float: left;
+}
+.link1
+{
+    color: blueviolet;
+}
+#d1
+{
+    border: 1px solid black;
+    background-color: white;
+}
+#d2
+{
+    border: 1px solid black;
+    background-color:rgb(165, 159, 159) ;
+}
+#d3
+{
+    border: 1px solid black;
+    background-color:rgb(165, 159, 159);
+}
+#d4
+{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+p{
+    font-family: 'Kablammo', cursive;
+}
