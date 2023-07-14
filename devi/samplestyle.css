@@ -1,0 +1,81 @@
+.d1
+{
+    background-color: orange;
+}
+.home
+{
+    color: orange;
+}
+.other
+{
+    color: black;
+}
+.d3
+{
+    background: url(./forest.png) no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.cmpnyimg
+{
+    float: ;
+}
+.welcome
+{
+    color: orange;
+}
+
+.d5
+{
+    background: url(rooms.jpeg) no-repeat;
+    background-size: cover;
+    height: 650px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.d6
+{
+    width: 50px;
+    color: black;
+    padding: 2px;
+}
+
+.d7
+{
+    
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.d8
+{
+    width: 100px;
+}
+
+.in1
+{
+    margin-left: 5px;
+}
+.all
+{
+    color: orange;
+}
+.non_all
+{
+    color: black;
+}
+.d9
+{
+    background-color: black;
+    color: white;
+}
+
+.a2
+{
+    color: rgba(124, 153, 139, 0.363);
+}
+

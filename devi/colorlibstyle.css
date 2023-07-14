@@ -1,0 +1,31 @@
+.d1
+{
+    background: url(hotel1.jpeg) no-repeat;
+    background-size: cover;
+    padding: 0px;
+}
+
+.heading
+{
+    font-size: 50px;
+}
+
+.nav{
+    background: transparent;
+}
+.part1{
+    height: 700px;
+}
+
+.part1,.subpart{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(10, 90, 83);
+}
+
+.para1,.para2
+{
+    color: black;
+    font-size: 35px;
+}
